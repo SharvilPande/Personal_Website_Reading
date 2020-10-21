@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: linear-gradient(mediumseagreen 25%, paleturquoise 50%, firebrick 75%, pink 100%);
+}
+
+h1 {
+    color: firebrick;
+    border-style: outset;
+    border-width: thick;
+    border-color: dodgerblue; 
+}
+
+h3 {
+    float: left;
+    font-family: monospace;
+    text-decoration: underline;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+table td,
+th {
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    color: black
+}
+
+img {
+    width: 150px;
+    height: 200px;
+}
+
+table {
+    width: 100%;
+}
